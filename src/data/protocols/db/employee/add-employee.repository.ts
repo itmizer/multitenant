@@ -1,5 +1,4 @@
-import { AddEmployee } from "domain/usecases/employee"; 
-
+import { AddEmployee } from "src/domain/usecases/employee"
 export interface AddEmployeeRepository { 
   add: (data: AddEmployee.Parameters) => Promise<AddEmployee.Result>;
 }

@@ -1,4 +1,4 @@
-import { Decrypt } from "data/protocols/cryptography";
+import { Decrypt } from "src/data/protocols/cryptography";
 import { decode, verify } from "jsonwebtoken";
 
 import * as config from "config";
