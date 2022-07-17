@@ -1,5 +1,5 @@
 
-# ItMizer
+# ItMizer 0.1
 
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
@@ -67,5 +67,5 @@ $ npm run test:cov
 Caso apos buildar a aplicação talvez seja necessário entrar no bash de comando e rodar o comando npm install para instalar as dependencias do projeto.
 
 <h4 align="center"> 
- 🚀 Projeto em construção...
+ 🚀 Projeto em construção...  
 </h4>
