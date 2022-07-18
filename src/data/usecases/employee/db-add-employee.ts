@@ -1,5 +1,5 @@
 import { AddEmployee } from '../../../domain/usecases/employee';
-import { AddEmployeeRepository } from 'src/data/protocols';
+import { AddEmployeeRepository } from '@/data/protocols';
 
 export class DbAddEmployee implements AddEmployee {
   constructor(
