@@ -1,0 +1,26 @@
+db: 
+  database: 'BDportalB2bOi'
+  host: '10.128.0.4'
+  username: 'sa'
+  password: 'map-squadra@$360@2021'
+  synchronize: true
+
+jarvis:
+  host: 'http://10.128.0.6:4080/'
+  usuario: 'usuarioTeste'
+  senha: 'senhaTeste'
+
+catalogo:
+  host: 'http://10.128.0.6:4600/'
+
+header:
+  origin: 'http://10.128.0.6:4700'
+
+lead:
+  urlAnexo: 'http://localhost:4434'
+
+email:
+  ambienteRedirecionamento: 'http://23.251.154.49:4900'
+
+
+  

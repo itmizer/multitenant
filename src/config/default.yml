@@ -1,0 +1,48 @@
+server:
+  port: 3000
+
+db: 
+  type: 'mssql'
+  port: 1433
+  database: 'MAP3602'
+  host: 'localhost'
+  username: 'sa'
+  password: 'yourStrong(!)Password'
+  synchronize: true
+
+google:
+  host: 'https://maps.googleapis.com/maps/api/geocode/'
+  key: 'AIzaSyCZrxlP8SKOhHzB1uszeBZpZqDHygW4atU'
+
+jarvis:
+  host: 'http://10.128.0.6:4080/'
+  usuario: 'usuarioTeste'
+  senha: 'senhaTeste'
+
+portalEmpresarial:
+  url: 'https://portalempresarial.oi.net.br/market/server_map3c.php'
+  urlWSDL: 'https://portalempresarial.oi.net.br/market/server_map3c.php?wsdl'
+  usuario: 'sistemab2b'
+  senha: '73daf6b41c1c95304afb159cc34d84eb'
+
+header:
+  origin: 'http://10.128.0.6:4700'
+
+jwt:
+  secret: '@$PortalB2BCorporativo$@'
+
+cellere:
+  token: '0ccd91d59fd7a921'
+  url: 'http://orquestrador.cellereit.com.br:8010/map3c'
+
+catalogo:
+  host: 'http://localhost:4434'
+
+lead:
+  urlAnexo: 'http://localhost:4434'
+
+email:
+  ambienteRedirecionamento: 'http://localhost:4434'
+
+arquivos:
+  diretorio: 'temp'

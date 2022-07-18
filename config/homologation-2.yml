@@ -1,0 +1,30 @@
+# db: 
+#   database: 'map3c_pipeline_2'
+#   host: '10.128.0.4'
+#   username: 'sa'
+#   password: 'map-squadra@$360@2021'
+#   synchronize: true
+
+
+# db: 
+#   database: 'contato'
+#   host: '10.128.0.4'
+#   username: 'sa'
+#   password: 'map-squadra@$360@2021'
+#   synchronize: true
+
+db:
+  database: 'map360Local'
+  host: 'localhost'
+  username: 'sa'
+  password: 'yourStrong(!)Password'
+  synchronize: true
+
+catalogo:
+  host: 'http://localhost:4434'
+
+lead:
+  urlAnexo: 'http://localhost:4434'
+
+email:
+  ambienteRedirecionamento: 'http://localhost:4434'

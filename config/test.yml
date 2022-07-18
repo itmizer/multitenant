@@ -1,0 +1,13 @@
+db:
+  type: 'mssql'
+  port: 1433
+  database: 'map360Local'
+  host: 'localhost'
+  username: 'sa'
+  password: 'yourStrong(!)Password'
+
+catalogo:
+  host: 'http://10.128.0.6:4150/'
+
+email:
+  ambienteRedirecionamento: 'http://localhost:4434'

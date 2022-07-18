@@ -1,0 +1,10 @@
+db:
+  synchronize: false
+
+jarvis:
+  host: 'http://10.61.228.86:8080/'
+  usuario: 'Jarvis_api_Map3c'
+  senha: '@&!Tzk6cafx!'
+
+arquivos:
+  diretorio: '\\naspc45\portalb2b$\upload\map2.0'

@@ -1,0 +1,15 @@
+db: 
+  database: 'BDportalB2b'
+  host: '10.128.0.4'
+  username: 'sa'
+  password: 'map-squadra@$360@2021'
+  synchronize: true
+
+catalogo:
+  host: 'http://23.251.154.49:4600/'
+
+lead:
+  urlAnexo: 'http://10.128.0.6:8003'
+
+email:
+  ambienteRedirecionamento: 'http://10.128.0.6:8007'

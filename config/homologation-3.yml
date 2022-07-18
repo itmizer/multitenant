@@ -1,0 +1,20 @@
+db:
+  database: 'BDportalB2bProposta'
+  host: '10.128.0.4'
+  username: 'sa'
+  password: 'map-squadra@$360@2021'
+  synchronize: true
+
+catalogo:
+  host: 'http://10.128.0.6:4150/'
+
+jarvis:
+  host: 'http://10.128.0.6:4080/'
+  usuario: 'usuarioTeste'
+  senha: 'senhaTeste'
+
+header:
+  origin: 'http://10.128.0.6:4400'
+
+email:
+  ambienteRedirecionamento: 'http://10.128.0.6:8003'
